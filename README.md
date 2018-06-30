@@ -1,1 +1,1 @@
-# luxia.no
+# Default project structures
